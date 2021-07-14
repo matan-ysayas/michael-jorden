@@ -1,0 +1,36 @@
+header{
+    height: 9%;
+    position: fixed;
+    display: inline;
+}
+footer{
+    height: 7%;
+    position: fixed;
+}
+img{
+    border-radius: 80px;
+    clip-path: circle(70%);
+    box-shadow: 20px 20px 20px 20px chartreuse;
+    width: 400px;
+    height: 300px;
+    
+}
+
+#imgjorden{
+    position: relative;bottom: -85px; left: auto;
+    
+    
+}
+#link{
+    padding-top: 5%;
+}
+p{
+    width: 500px;
+    height: 200px;
+    overflow: scroll;
+}
+img:hover{
+    width:600px ;
+    height:400px ;
+    transition: 2s;
+}
